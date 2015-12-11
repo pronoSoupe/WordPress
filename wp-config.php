@@ -77,7 +77,7 @@ $table_prefix  = 'wp_';
  * de thèmes se servent de WP_DEBUG dans leur environnement de 
  * développement.
  */ 
-define('WP_DEBUG', false); 
+define('WP_DEBUG', true); 
 define( 'AUTOMATIC_UPDATER_DISABLED', false );
 define ('WP_AUTO_UPDATE_CORE', false);
 
