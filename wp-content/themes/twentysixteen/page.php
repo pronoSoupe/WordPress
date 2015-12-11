@@ -33,6 +33,15 @@ get_header(); ?>
 
 	</main><!-- .site-main -->
 
+    <?php
+    if ( is_front_page() ) {
+        // show inner menu
+        wp_nav_menu( array(
+            'menu' => 'menu_accueil'
+        ) );
+    }
+    ?>
+
 	<?php get_sidebar( 'content-bottom' ); ?>
 
 </div><!-- .content-area -->

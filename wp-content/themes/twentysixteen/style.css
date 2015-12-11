@@ -2891,9 +2891,6 @@ p > video {
 
 	.site-header-menu {
 		display: block;
-		-webkit-flex: 0 1 auto;
-		-ms-flex: 0 1 auto;
-		flex: 0 1 auto;
 	}
 
 	.main-navigation {
