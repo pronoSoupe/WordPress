@@ -78,6 +78,8 @@ $table_prefix  = 'wp_';
  * développement.
  */ 
 define('WP_DEBUG', false); 
+define( 'AUTOMATIC_UPDATER_DISABLED', false );
+define ('WP_AUTO_UPDATE_CORE', false);
 
 /* C'est tout, ne touchez pas à ce qui suit ! Bon blogging ! */
 
