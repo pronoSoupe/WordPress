@@ -1,0 +1,1205 @@
+msgid ""
+msgstr "MIME-Version: 1.0\n"
+
+#. Name.
+msgid "WP Google Maps"
+msgstr ""
+
+#. Short description.
+msgid "The easiest to use Google maps plugin! Create a custom Google map with high quality markers containing categories, descriptions, images and links."
+msgstr ""
+
+#. Screenshot description.
+msgid "The \"Lite\" version of WP Google Maps."
+msgstr ""
+
+#. Screenshot description.
+msgid "The \"Pro\" version of WP Google Maps."
+msgstr ""
+
+#. Screenshot description.
+msgid "WP Google Maps Pro version: Users can get directions to your map markers"
+msgstr ""
+
+#. Screenshot description.
+msgid "WP Google Maps Pro version: Add custom markers to your Google map"
+msgstr ""
+
+#. Screenshot description.
+msgid "WP Google Maps Lite version: General settings page"
+msgstr ""
+
+#. Screenshot description.
+msgid "WP Google Maps Pro version: General settings page"
+msgstr ""
+
+#. Screenshot description.
+msgid "WP Google Maps Pro version: InfoWindow settings page"
+msgstr ""
+
+#. Screenshot description.
+msgid "WP Google Maps Pro version: Advanced Google map options."
+msgstr ""
+
+#. Screenshot description.
+msgid "WP Google Maps Pro version: Map marker listing options"
+msgstr ""
+
+#. Screenshot description.
+msgid "WP Google Maps Pro version: Export/Import your map markers"
+msgstr ""
+
+#. Screenshot description.
+msgid "WP Google Maps Pro version: Responsive carousel map marker listing"
+msgstr ""
+
+#. Screenshot description.
+msgid "WP Google Maps Lite version: Store Locator Settings"
+msgstr ""
+
+#. Screenshot description.
+msgid "WP Google Maps Lite version: Store Locator Map"
+msgstr ""
+
+#. Screenshot description.
+msgid "WP Google Maps Lite version: Map Widget"
+msgstr ""
+
+#. Found in description header.
+msgid "Lite Version (Free)"
+msgstr ""
+
+#. Found in description header.
+msgid "Professional Edition"
+msgstr ""
+
+#. Found in description header.
+msgid "Translations"
+msgstr ""
+
+#. Found in description header.
+msgid "Demos"
+msgstr ""
+
+#. Found in description header.
+msgid "Documentation"
+msgstr ""
+
+#. Found in description header.
+msgid "Troubleshooting"
+msgstr ""
+
+#. Found in description list item.
+msgid "The most popular Google Maps plugin on WordPress"
+msgstr ""
+
+#. Found in description list item.
+msgid "Super easy to use, no coding required!"
+msgstr ""
+
+#. Found in description list item.
+msgid "Create as many map markers as you need by simply typing in the address"
+msgstr ""
+
+#. Found in description list item.
+msgid "Responsive maps"
+msgstr ""
+
+#. Found in description list item.
+msgid "Edit your map markers with the click of a button"
+msgstr ""
+
+#. Found in description list item.
+msgid "9 popular map themes to choose from"
+msgstr ""
+
+#. Found in description list item.
+msgid "Create or add your own map theme"
+msgstr ""
+
+#. Found in description list item.
+msgid "Drag map markers to an exact location"
+msgstr ""
+
+#. Found in description list item.
+msgid "Google Maps Streetview supported"
+msgstr ""
+
+#. Found in description list item.
+msgid "UTF-8 character support"
+msgstr ""
+
+#. Found in description list item.
+msgid "Map widget functionality"
+msgstr ""
+
+#. Found in description list item.
+msgid "Support for localization"
+msgstr ""
+
+#. Found in description list item.
+msgid "Choose from four Google maps types: roadmap, terrain, satellite and hybrid"
+msgstr ""
+
+#. Found in description list item.
+msgid "Define your own width, height and zoom level for your Google Map"
+msgstr ""
+
+#. Found in description list item.
+msgid "Add animations to your map markers!"
+msgstr ""
+
+#. Found in description list item.
+msgid "Store locator functionality"
+msgstr ""
+
+#. Found in description list item.
+msgid "Restrict a store locator search by country"
+msgstr ""
+
+#. Found in description list item.
+msgid "Add Polygons to your Map"
+msgstr ""
+
+#. Found in description list item.
+msgid "Add Polylines / Routes to your map"
+msgstr ""
+
+#. Found in description list item.
+msgid "Create a map in less than a 30 seconds!"
+msgstr ""
+
+#. Found in description list item.
+msgid "Right click to add a marker to your Google map"
+msgstr ""
+
+#. Found in description list item.
+msgid "No advertising or links"
+msgstr ""
+
+#. Found in description list item.
+msgid "Google Maps Autocomplete"
+msgstr ""
+
+#. Found in description list item.
+msgid "Google Maps Transport Layer"
+msgstr ""
+
+#. Found in description list item.
+msgid "Google Maps Weather Layer"
+msgstr ""
+
+#. Found in description list item.
+msgid "Set the max zoom level for your map"
+msgstr ""
+
+#. Found in description list item.
+msgid "Serve your map marker data via your database or an XML file"
+msgstr ""
+
+#. Found in description list item.
+msgid "Compatible with caching plugins"
+msgstr ""
+
+#. Found in description list item.
+msgid "Compatible with Cloudfare"
+msgstr ""
+
+#. Found in description list item.
+msgid "Latest Google Maps API (V3.14, V3.15 &amp; V3.exp)"
+msgstr ""
+
+#. Found in description list item.
+msgid "Create multiple Google maps!"
+msgstr ""
+
+#. Found in description list item.
+msgid "Allow your visitors to get directions to your markers."
+msgstr ""
+
+#. Found in description list item.
+msgid "Add descriptions, links and images to your map markers."
+msgstr ""
+
+#. Found in description list item.
+msgid "Add categories to your map markers"
+msgstr ""
+
+#. Found in description list item.
+msgid "Filter markers by category"
+msgstr ""
+
+#. Found in description list item.
+msgid "Mashup multiple Google maps"
+msgstr ""
+
+#. Found in description list item.
+msgid "Add different marker icons, or your own icons to make your map really stand out!"
+msgstr ""
+
+#. Found in description list item.
+msgid "List your Google Map markers in the four ways; basic list, basic table, carousel, advanced table"
+msgstr ""
+
+#. Found in description list item.
+msgid "Allow visitors to use their map location as the starting or ending point for the directions"
+msgstr ""
+
+#. Found in description list item.
+msgid "Choose between the Default Google Maps Infowindow and the new Modern Infowindow"
+msgstr ""
+
+#. Found in description list item.
+msgid "Export/Import your markers to a CSV file for quick editing."
+msgstr ""
+
+#. Found in description list item.
+msgid "Link Fusion tables to your Google Maps"
+msgstr ""
+
+#. Found in description list item.
+msgid "Show your visitor's location on the Map"
+msgstr ""
+
+#. Found in description list item.
+msgid "Import KML/KMZ files to your Google Map"
+msgstr ""
+
+#. Found in description list item.
+msgid "More advanced options for the Store Locator"
+msgstr ""
+
+#. Found in description list item.
+msgid "Allow users to use their map location for the store locator"
+msgstr ""
+
+#. Found in description list item.
+msgid "Store locator search by category"
+msgstr ""
+
+#. Found in description list item.
+msgid "Hide all map markers until a store locator search is done"
+msgstr ""
+
+#. Found in description list item.
+msgid "Move your marker list inside the Google Map window"
+msgstr ""
+
+#. Found in description list item.
+msgid "Multiple map widget functionality"
+msgstr ""
+
+#. Found in description list item.
+msgid "Add retina-ready map marker icons"
+msgstr ""
+
+#. Found in description list item.
+msgid "WordPress Network friendly"
+msgstr ""
+
+#. Found in description list item.
+msgid "Get the <a href=\"http://www.wpgmaps.com/purchase-professional-version/\">WP Google Maps Professional Edition</a> for only $19.99"
+msgstr ""
+
+#. Found in description list item.
+msgid "English - default"
+msgstr ""
+
+#. Found in description list item.
+msgid "Russian (Alexandra Bondareva)"
+msgstr ""
+
+#. Found in description list item.
+msgid "German"
+msgstr ""
+
+#. Found in description list item.
+msgid "French (Arnaud Thomas)"
+msgstr ""
+
+#. Found in description list item.
+msgid "Polish (Michal Kotnowski)"
+msgstr ""
+
+#. Found in description list item.
+msgid "Finnish (Johanna Joutti)"
+msgstr ""
+
+#. Found in description list item.
+msgid "Dutch (Jan Wind)"
+msgstr ""
+
+#. Found in description list item.
+msgid "Hebrew (Gal Dotan)"
+msgstr ""
+
+#. Found in description list item.
+msgid "Danish (Patrick Jepsen)"
+msgstr ""
+
+#. Found in description list item.
+msgid "Italian (Tommaso Mori &amp; Massimo Bregani)"
+msgstr ""
+
+#. Found in description list item.
+msgid "Croatian (Sven Kopun)"
+msgstr ""
+
+#. Found in description list item.
+msgid "Greek (Konstantinos Koukoulakis)"
+msgstr ""
+
+#. Found in description list item.
+msgid "Romanian (Cosmin Stroe)"
+msgstr ""
+
+#. Found in description list item.
+msgid "Spanish (Carmelo Villegas Cruz)"
+msgstr ""
+
+#. Found in description list item.
+msgid "Portuguese (Jose Antonio Ribeiro)"
+msgstr ""
+
+#. Found in description list item.
+msgid "Brazilian Portuguese (Roberto Costa)"
+msgstr ""
+
+#. Found in description list item.
+msgid "Turkish (Suha Karalar)"
+msgstr ""
+
+#. Found in description list item.
+msgid "Lithuanian"
+msgstr ""
+
+#. Found in description list item.
+msgid "Czechoslovakian^"
+msgstr ""
+
+#. Found in description list item.
+msgid "Swedish^"
+msgstr ""
+
+#. Found in description list item.
+msgid "<a href=\"http://www.wpgmaps.com/demo/basic-google-map-with-markers/\">Basic Google Map with Markers</a>"
+msgstr ""
+
+#. Found in description list item.
+msgid "<a href=\"http://www.wpgmaps.com/demo/wp-google-maps-store-locator-free-version/\">Store Locator</a>"
+msgstr ""
+
+#. Found in description list item.
+msgid "<a href=\"http://www.wpgmaps.com/demo/polygons-and-polylines/\">Polygons &amp; Polyines/Routes</a>"
+msgstr ""
+
+#. Found in description list item.
+msgid "<a href=\"http://www.wpgmaps.com/demo/google-maps-weather-layer/\">Google Maps Weather Layer</a>"
+msgstr ""
+
+#. Found in description list item.
+msgid "<a href=\"http://www.wpgmaps.com/demo/google-maps-cloud-layer/\">Google Maps Cloud Layer</a>"
+msgstr ""
+
+#. Found in description list item.
+msgid "<a href=\"http://www.wpgmaps.com/demo/google-maps-transit-layer/\">Google Maps Transit Layer</a>"
+msgstr ""
+
+#. Found in description list item.
+msgid "<a href=\"http://www.wpgmaps.com/demo/google-maps-traffic-layer/\">Google Maps Traffic Layer</a>"
+msgstr ""
+
+#. Found in description list item.
+msgid "<a href=\"http://www.wpgmaps.com/demo/google-maps-bicycle-layer/\">Google Maps Bicycle Layer</a>"
+msgstr ""
+
+#. Found in description list item.
+msgid "<a href=\"http://www.wpgmaps.com/demo/basic-map-and-markers/\">Google map with advanced markers</a>"
+msgstr ""
+
+#. Found in description list item.
+msgid "<a href=\"http://www.wpgmaps.com/demo/list-markers/\">Marker listings - Simple</a>"
+msgstr ""
+
+#. Found in description list item.
+msgid "<a href=\"http://www.wpgmaps.com/demo/map-with-markers-listed-below-advanced/\">Marker listings - Advanced</a>"
+msgstr ""
+
+#. Found in description list item.
+msgid "<a href=\"http://www.wpgmaps.com/demo/directions/\">Google Maps Directions</a>"
+msgstr ""
+
+#. Found in description list item.
+msgid "<a href=\"http://www.wpgmaps.com/demo/responsive-maps/\">Resposive Map</a>"
+msgstr ""
+
+#. Found in description list item.
+msgid "<a href=\"http://www.wpgmaps.com/demo/marker-categories/\">Marker Categories</a> (Filtering)"
+msgstr ""
+
+#. Found in description list item.
+msgid "<a href=\"http://www.wpgmaps.com/demo/store-locator/\">Advanced Store Locator</a>"
+msgstr ""
+
+#. Found in description list item.
+msgid "<a href=\"http://www.wpgmaps.com/demo/screenshots-back-end/\">WP Google Maps Editor</a> (Back-end Screenshots)"
+msgstr ""
+
+#. Found in description list item.
+msgid "<a href=\"http://www.wpgmaps.com/demo/visitor-generated-markers/\">Visitor Generated Markers</a> - (WP Google Maps VGM Add-on)"
+msgstr ""
+
+#. Found in description list item.
+msgid "<a href=\"http://www.wpgmaps.com/demo/custom-map-styling/\">Custom Map Styling</a> (WP Google Maps Gold Add-on)"
+msgstr ""
+
+#. Found in description list item.
+msgid "<a href=\"http://www.wpgmaps.com/documentation/installing-the-plugin/\">Installing WP Google Maps</a>"
+msgstr ""
+
+#. Found in description list item.
+msgid "<a href=\"http://www.wpgmaps.com/documentation/creating-your-first-map/\">Creating your first map</a>"
+msgstr ""
+
+#. Found in description list item.
+msgid "<a href=\"http://www.wpgmaps.com/documentation/advanced-map-options/map-mashup/\">Google Maps mashup (Pro)</a>"
+msgstr ""
+
+#. Found in description list item.
+msgid "<a href=\"http://www.wpgmaps.com/documentation/exporting-and-importing-your-markers/\">Exporting and importing map markers (Pro)</a>"
+msgstr ""
+
+#. Found in description list item.
+msgid "<a href=\"http://www.wpgmaps.com/documentation/changing-the-google-maps-language/\">Changing the Google Maps language</a>"
+msgstr ""
+
+#. Found in description list item.
+msgid "<a href=\"http://www.wpgmaps.com/introducing-maps-by-custom-fields/\">Create a google map and marker using custom fields (Pro)</a>"
+msgstr ""
+
+#. Found in description list item.
+msgid "<a href=\"http://www.wpgmaps.com/documentation/\">View all documentation</a>"
+msgstr ""
+
+#. Found in description list item.
+msgid "<a href=\"http://www.wpgmaps.com/documentation/troubleshooting/my-map-is-not-showing-on-my-website/\">My Google Map is not showing on my website</a>"
+msgstr ""
+
+#. Found in description list item.
+msgid "<a href=\"http://www.wpgmaps.com/documentation/troubleshooting/my-markers-are-not-showing-on-my-map/\">My markers are not showing</a>"
+msgstr ""
+
+#. Found in description list item.
+msgid "<a href=\"http://www.wpgmaps.com/documentation/troubleshooting/\">View all troubleshooting articles</a>"
+msgstr ""
+
+#. Found in description paragraph.
+msgid "The easiest to use Google maps plugin! Add a customized Google map to your WordPress posts and/or pages quickly and easily with the supplied shortcode. No fuss. No iFrames and super easy to use! Perfect for contact page maps, routes, maps showing delivery areas and any other use you can think of!"
+msgstr ""
+
+#. Found in description paragraph.
+msgid "While the free version of WP Google Maps allows you to create a Google map with as many markers as you like, the Pro version allows you to do so much more!"
+msgstr ""
+
+#. Found in description paragraph.
+msgid "The <a href=\"http://www.wpgmaps.com/purchase-professional-version/\">WP Google Maps Pro Version</a> version allows you create custom Google maps with high quality markers containing locations, descriptions, images, categories, links and directions."
+msgstr ""
+
+#. Found in description paragraph.
+msgid "Get a free copy of the WP Google Maps Pro version in exchange for translating our plugin!"
+msgstr ""
+
+#. Found in description paragraph.
+msgid "^Language file needs to be updated"
+msgstr ""
+
+#. Found in description paragraph.
+msgid "WP Google Maps Lite"
+msgstr ""
+
+#. Found in description paragraph.
+msgid "WP Google Maps Pro"
+msgstr ""
+
+#. Found in installation header.
+msgid "First time WP Google Maps user"
+msgstr ""
+
+#. Found in installation header.
+msgid "Adding your first map marker"
+msgstr ""
+
+#. Found in installation header.
+msgid "Setting up a Google Maps Store Locator"
+msgstr ""
+
+#. Found in installation paragraph.
+msgid ""
+"Thank you for choosing WP Google Maps! In order to create your Google map, simply activate the plugin and click on \"Maps\" in your left navigation menu.\n"
+"Once the WP Google Maps page loads, set the options for your map (height, width, map type, zoom level etc) and then use your mouse to drag your Google map to your desired location and press the \"Save map\" button.\n"
+"Copy and paste the shortcode into your post or page and WP Google Maps will automatically create the map on your page using the settings you chose above."
+msgstr ""
+
+#. Found in installation paragraph.
+msgid "To add a marker to your Google map, scroll to below the map in your admin section and enter the address or GPS location in the Address input field. Click \"Add Marker\" and WP Google Maps will add your marker to the address you specified."
+msgstr ""
+
+#. Found in installation paragraph.
+msgid "In order to make use of WP Google Maps Store Locator functionality, simply click on the \"Store Locator\" tab in the map creation page and select \"Yes\""
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed a bug that caused the map to not display when a theme was not selected"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "A new theme directory has been created - this allows you to use any map theme or style that you want simply by copying and pasting it's data"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Added 3 new google maps custom themes"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Corrected internationalization"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "iPhone map marker styling fix"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed an autocomplete bug"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "All WP Google Maps language files have been updated"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Added 5 map themes to the map editor"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Added a native map widget so you can drag and drop your maps to your widget area"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Minor bug fixes"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "All language files updated"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Included the latest version of datatables to fix the bug experienced with the new jQuery being included in WordPress 4.3"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Updated datatables.responsive to 1.0.7 and included the minified version of the file instead"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed a few styling bugs in the map editor"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "WP Google Maps tested with WordPress 4.3"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Security patch"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Tested with WP 4.2.3"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Security enhancements to the map editor page, map javascript, marker categories and front end code"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Security enhancements (map editor, marker location, map settings)"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Weather has been removed (deprecated by Google Maps)"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Major bug fix (Google Map places bug) - caused the map markers not to show if the map store locator was not enabled"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed a bug that caused the jQuery error message to display br"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "XSS security patch"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Security enhancements"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed a bug that didnt allow you to add a map marker if there were no markers to start with"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "French translation bug fixed"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Greek translation added - Thank you Konstantinos Koukoulakis"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Added the Google Maps autocomplete functionality to the \"add marker\" section of the map editor"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Added the Google Maps autocomplete functionality to the Store Locator"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "json_encode (extra parameter) issue fixed for hosts using PHP version &lt; 5.3"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Plugin tested on 4.2RC3"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Rocketscript fix"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Dutch translation added"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Main translation file updated"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Timthumb removed"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "New support page added"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "You can now restrict your store locator search by a specific country"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Bug fix in map editor"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "SSL bug fix"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Usability improvements when right clicking to add a marker on the map."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Russian, Lithuanian and Portuguese translations added"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Safari bug fix"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed issues with map markers containing addresses with single quotes"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "You can now set the max zoom of your google map"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Translation file updated"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "IIS server error fix"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Small map bug fixes"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Brazilian portuguese language file updated"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Activation error fixes"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Code improvements (PHP warnings)"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "New languages added"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Tested in WordPress 4.1"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Translation file updates"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Code improvements"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Added an alternative method to pull the marker data"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed a category bug"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Added a check for the DOMDocument class when creating the map marker data files"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Removed the APC Object Cache warning"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Added new strings to the PO file"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "New option: You can now show or hide the Store Locator bouncing icon"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "New feature: Add custom CSS in the settings page"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Enfold / Avia theme conflict resolved (Google Maps API loading twice)"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Better marker file/directory control"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Italian translation added (Tommaso Mori)"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "French translation updated by Arnaud Thomas"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Security updates (thank you www.htbridge.com)"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Google Map Store Locator bug fix - map zoom levels on 300km, 150km and 75km were incorrect"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Attempting to fix the \"is_dir\" and \"open_basedir restriction\" errors some users are experiencing."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Updated timthumb to version 2.8.14"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Removed the use of \"is_dir\" which caused fatal errors on some hosts"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Added extra support for folder management and error reporting"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Code improvements (PHP Warnings)"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Better polygon and polyline handling"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Hebrew translation added - thank you Gal Dotan"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Added extra support for corrupt polyline and polygon data - Low priority update"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed incorrect warning about permissions when permissions where \"2755\" etc."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Add classes to the Google map store locator elements"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Backend UI improvement"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "You can now right click to add a marker to the map"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "New map markers can be dragged"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Polygons and polylines now have labels"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Small bug fixes"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "You can now alter the query string for the store locator"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed a bug that caused the marker file to be recreated on every page load in some instances."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed a marker listing display bug (iPhone)"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Now showing default settings for marker path and URL"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Removed the \"Google map could not load\" error"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed a bug that when threw off GPS co-ordinates when adding a lat,lng as an address"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "You can now select which roles can access the map editor"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Minor update: PO files updated"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "You can now choose which folder your markers are saved in"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Better error reporting for file permission issues"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Map marker location bug fix"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Russian translation added by Borisa Djuraskovic"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Added option for selecting Celsius or Fahrenheit with the Google Maps weather layer "
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed PHP warnings and the plugin is now PHP 5.5 compatible"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed a google map marker XML file location bug"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Small bug fix on the WP Google Maps welcome page"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Tested on WP 3.9"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed a bug that only displayed two map marker categories for the store locator (pro)"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Added the option to select which Google Map API version you would like to use. There were issues when using Google Map API v3.15 (lines were created on the map for no reason. The default is now Google Map API V3.14)"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Maps now automatically work in Tabs without having to add any code"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Added a \"zoom level\" slider to the Google map settings"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Added a check for GoDaddy Wordpress hosting and the APC object cache due to the issues that arise while using it"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed a polyline bug"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Added \"stroke opacity\" options to polygons"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Added a warning when users want to use % for the map height"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed a Mac Firefox style issue with the WP Google Maps Store Locator"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed a function error in the polyline functions file"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Upgrading of plugin is now handled correctly"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Multisite bug fixes"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "XML marker file bug fixes (thank you Endymion00)"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Markers are now stored in the uploads folder"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Performance update"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Small bug fix"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Style bug fix"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed a map width bug with the datatables layout. Now falls in line with the map width."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Added more options to the map settings page"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed a bug that forced a new geocode on every marker edit, even if the address wasnt changed"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Updated TimThumb from 2.8.11 to 2.8.13"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "You can now choose for your map InfoWindows to open from mouse click or hover"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Better error handling when the map cannot show due to conflicts or JS errors"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed the bug that caused high memory usage"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Major bug fixes"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Bug fix - The map style changed the style of your theme."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Add animations to your map markers (lite)"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Choose to have the infowindow open by default (lite)"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Add the bicycle and traffic layer to your map (lite)"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Substantial coding improvements and bug fixes"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed the marker sort order bug"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed a bug that if clicking the \"add maker\" button produced an error, the \"add marker\" button would disappear."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Categories can now be hidden from the marker list"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "German translation added thanks to Matteo Ender"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed a styling bug with Firefox"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed the bug that caused all markers to be lost upon upgrading"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Added improved styling to the address in the map infowindow"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed update bug"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Plugin now checks to see if the Google Maps API is already loaded before trying to load it again"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed some SSL bugs"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Added marker category functionality"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Added Google Map Mashup functionality"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed small bugs"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Added backwards compatibility for older versions of WordPress"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Replaced deprecated WordPress function calls"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Added Spanish translation - Thank you Fernando!"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "The map plugin now uses the new media manager"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed some styling conflicts"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Added missing strings to localization"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Updated to the latest Timthumb version"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed a small bug"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Removed deprecated code"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Added SSL bug fixes"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed a bug that wasnt allowing users to edit the exact location"
+msgstr ""
+
+#. Found in changelog paragraph.
+msgid "For more, please view the WP Google Maps site"
+msgstr ""
+
+#. Found in faq header.
+msgid "How do I get WP Google Maps Pro?"
+msgstr ""
+
+#. Found in faq header.
+msgid "I've installed the plugin, now what?"
+msgstr ""
+
+#. Found in faq header.
+msgid "How do I put a Google map on my page/post?"
+msgstr ""
+
+#. Found in faq header.
+msgid "How do I add a map widget to my widget area?"
+msgstr ""
+
+#. Found in faq header.
+msgid "I want to use this but I dont have WordPress"
+msgstr ""
+
+#. Found in faq paragraph.
+msgid "Simply visit http://www.wpgmaps.com and purchase the WP Google Maps Professional Edition for $19.99 once off. Free updates and support included forever."
+msgstr ""
+
+#. Found in faq paragraph.
+msgid "Once installed and activated, a link should appear in your left navigation panel within your WP-ADMIN section. Click on the \"WP Google Maps\" link and follow the on screen instructions."
+msgstr ""
+
+#. Found in faq paragraph.
+msgid "In order to show your custom Google map on your page or post, simply copy the shortcode supplied and paste it into your page or post. WP Google Maps will automatically configure the map to the settings you selected in the map edit page."
+msgstr ""
+
+#. Found in faq paragraph.
+msgid "To add your map to your widgets area, simply go to Appearance-&gt;Widgets and drag the \"WP Google Maps\" Map Widget to your sidebar. You then edit the map widget to reflect the correct map."
+msgstr ""
+
+#. Found in faq paragraph.
+msgid "Try <a href=\"http://www.niftymaps.co\">Nifty Maps</a> - Comprehensive Map Builder for all websites"
+msgstr ""
