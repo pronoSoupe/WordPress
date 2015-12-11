@@ -2691,33 +2691,6 @@ p > video {
  */
 
 @media screen and (min-width: 44.375em) {
-	body:not(.custom-background-image):before,
-	body:not(.custom-background-image):after {
-		background: inherit;
-		content: "";
-		display: block;
-		height: 21px;
-		left: 0;
-		position: fixed;
-		width: 100%;
-		z-index: 99;
-	}
-
-	body:not(.custom-background-image):before {
-		top: 0;
-	}
-
-	body:not(.custom-background-image).admin-bar:before {
-		top: 46px;
-	}
-
-	body:not(.custom-background-image):after {
-		bottom: 0;
-	}
-
-	.site {
-		margin: 21px;
-	}
 
 	.site-main {
 		margin-bottom: 5.25em;
@@ -2901,17 +2874,6 @@ p > video {
 
 
 /**
- * 14.2 - >= 783px
- */
-
-@media screen and (min-width: 48.9375em) {
-	body:not(.custom-background-image).admin-bar:before {
-		top: 32px;
-	}
-}
-
-
-/**
  * 14.3 - >= 910px
  */
 
@@ -3055,12 +3017,6 @@ p > video {
 
 	.site-content {
 		padding: 0 4.5455%;
-	}
-
-	.content-area {
-		float: left;
-		margin-right: -100%;
-		width: 70%;
 	}
 
 	.entry-header,
